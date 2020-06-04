@@ -1,0 +1,1 @@
+[unique_spike_time, difference] = spike_times(raw_data(:, 1:size(raw_data, 2)/2), 6);

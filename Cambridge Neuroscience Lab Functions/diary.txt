@@ -1,0 +1,748 @@
+{'clean_startime' is not found in the current folder or on the MATLAB path, but exists in:
+    C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\Matlab
+    F:\Matlab
+
+Change the MATLAB current folder or add its folder to the MATLAB path.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('large_envo_analysis_v3', 'C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\Matlab\large_envo_analysis_v3.m', 96)" style="font-weight:bold">large_envo_analysis_v3</a> (<a href="matlab: opentoline('C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\Matlab\large_envo_analysis_v3.m',96,0)">line 96</a>)
+oeStart = clean_startime(sync_mess); %start of sample clock of oe system
+} 
+sendmail('prannoycv@gmail.com', 'Diary', '', 'diary.txt')
+path
+
+		MATLABPATH
+
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\hooks
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\info
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\lfs
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\lfs\objects
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\lfs\objects\logs
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\lfs\tmp
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\lfs\tmp\objects
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\logs
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\logs\refs
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\logs\refs\heads
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\logs\refs\remotes
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\logs\refs\remotes\origin
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\objects
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\objects\info
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\objects\pack
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\refs
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\refs\heads
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\refs\remotes
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\refs\remotes\origin
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\.git\refs\tags
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\CUDA
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\Docs
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\configFiles
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\driftCorrection
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\eMouse
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\finalPass
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\initialize
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\mainLoop
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\mergesplits
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\preProcess
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\tests
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\KiloSort\utils
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\hooks
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\info
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\lfs
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\lfs\objects
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\lfs\objects\logs
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\lfs\tmp
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\lfs\tmp\objects
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\logs
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\logs\refs
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\logs\refs\heads
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\logs\refs\remotes
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\logs\refs\remotes\origin
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\objects
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\objects\info
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\objects\pack
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\refs
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\refs\heads
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\refs\remotes
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\refs\remotes\origin
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.git\refs\tags
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\.ipynb_checkpoints
+	C:\Users\Marino\Desktop\Marino Krstulovic\Grid cells - large enviroment\GitHub\npy-matlab\data
+	C:\Users\Marino\Documents\MATLAB
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\datafun
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\datatypes
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\elfun
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\elmat
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\funfun
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\general
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\iofun
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\lang
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\matfun
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\mvm
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\ops
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\polyfun
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\randfun
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\sparfun
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\specfun
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\strfun
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\timefun
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\validators
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\demos
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\graph2d
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\graph3d
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\graphics
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\graphics\obsolete
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\plottools
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\scribe
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\scribe\obsolete
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\specgraph
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\uitools
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\uitools\obsolete
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\hardware\stubs
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\images
+	C:\Program Files\MATLAB\R2018a\toolbox\local
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\maps
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\graphics\maps
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\optimfun
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\bigdata
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\codeanalysis\analysis
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\codetools
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\codetools\embeddedoutputs
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\datamanager
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\datastoreio
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\depfun
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\graphfun
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\guide
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\helptools
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\icons
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\mapreduceio
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\parallel
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\testframework\measurement\core
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\testframework\measurement\ext
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\testframework\mock\core
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\testframework\performance\core
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\testframework\ui\matlab
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\testframework\uiautomation
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\testframework\uitest
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\testframework\unittest\core
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\testframework\obsolete
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\testframework\unittest\ext
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\testframework\unittest\parallel
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\verctrl
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\winfun
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\winfun\NET
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\components
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\dee
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\simulinkcoder_app\code_perspective
+	C:\Program Files\MATLAB\R2018a\toolbox\rtw\accel
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\simulinkcoder_core
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\simulinkcoder_core\templates
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\objectives
+	C:\Program Files\MATLAB\R2018a\toolbox\simulinktest\core\simharness\simharness
+	C:\Program Files\MATLAB\R2018a\toolbox\simulinktest\core\injector\injector
+	C:\Program Files\MATLAB\R2018a\toolbox\simulinktest\core\testsequence\testsequence
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\blocks\library
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\blocks\library\simulinkcoder
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\blocks\obsolete
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\blocks
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\dataclasses
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\MPlayIO
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\dataobjectwizard
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\slresolve
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\units
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\resources
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\model_transformer
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\clone_detection
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\sfuncheck
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\string
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\templates\core
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simdemos\dataclasses
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simdemos
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simdemos\aerospace
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simdemos\automotive
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simdemos\simfeatures
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simdemos\simfeatures\modelreference
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simdemos\simfeatures\datadictionary
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simdemos\automotive\fuelsys
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simdemos\simgeneral
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simdemos\industrial
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simdemos\automotive\powerwindow
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sldependency
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\diagram\mi\m
+	C:\Program Files\MATLAB\R2018a\toolbox\slde\slde
+	C:\Program Files\MATLAB\R2018a\toolbox\slde\slde\resources
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink_export_methods
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\hmi
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\modeladvisor
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\modeladvisor\fixpt
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\modeladvisor\misra
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\modeladvisor\security
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\templates\product
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sdi
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sysarch\sysarch
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\frameedit
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\ui\library_browser\core\m
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\ui\studio\config\m
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\ui\sysdoc\core
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\webblocks\widgets\m
+	C:\Program Files\MATLAB\R2018a\toolbox\stateflow\stateflow
+	C:\Program Files\MATLAB\R2018a\toolbox\stateflow\coder
+	C:\Program Files\MATLAB\R2018a\toolbox\stateflow\sfdemos
+	C:\Program Files\MATLAB\R2018a\toolbox\stateflow\sftemplates
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\addons
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\addons\cef
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\addons\supportpackages
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\addons_product
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\supportpackagemanagement
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\addon_enable_disable_management\matlab
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\appdesigner\appdesigner
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\appdesigner\appdesigner\interface
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\appdesigner\appdesigner\runtime
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\apps
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\audiovideo
+	C:\Program Files\MATLAB\R2018a\toolbox\rtw\targets\AUTOSAR\AUTOSAR\dataclasses
+	C:\Program Files\MATLAB\R2018a\toolbox\rtw\targets\AUTOSAR\AUTOSAR
+	C:\Program Files\MATLAB\R2018a\toolbox\bioinfo\bioinfo
+	C:\Program Files\MATLAB\R2018a\toolbox\bioinfo\biolearning
+	C:\Program Files\MATLAB\R2018a\toolbox\bioinfo\microarray
+	C:\Program Files\MATLAB\R2018a\toolbox\bioinfo\mass_spec
+	C:\Program Files\MATLAB\R2018a\toolbox\bioinfo\proteins
+	C:\Program Files\MATLAB\R2018a\toolbox\bioinfo\biomatrices
+	C:\Program Files\MATLAB\R2018a\toolbox\bioinfo\graphtheory
+	C:\Program Files\MATLAB\R2018a\toolbox\bioinfo\bioinfodata
+	C:\Program Files\MATLAB\R2018a\toolbox\bioinfo\biodemos
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\cefclient
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\codedescriptor_core
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\coder
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\connectivity
+	C:\Program Files\MATLAB\R2018a\toolbox\rtw\targets\connectivity
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\emlcodermex
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\coverage
+	C:\Program Files\MATLAB\R2018a\toolbox\rtw\rtw
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\foundation
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\foundation\build
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\foundation\build\tools\registry
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\foundation\tfl
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\foundation\tfl\AUTOSAR\AUTOSAR4p0\IFX
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\foundation\tfl\AUTOSAR\AUTOSAR4p0\IFL
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\foundation\tfl\gui
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\foundation\templates
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\simtargets
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\profile
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\rtiostream
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\trace
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\xcp
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\comparisons
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\compiled_model_interface
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\configtools
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\academy
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\common
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\configuration
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\connector
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\editor
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\figures
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\file
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\framework
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\http
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\interpreter
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\json
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\logger
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\messageservice
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\mgg
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\microservices
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\nativebridge
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\restmatlab
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\session
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\shadowfiles
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\visualization
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\connector2\worker
+	C:\Program Files\MATLAB\R2018a\toolbox\control\control
+	C:\Program Files\MATLAB\R2018a\toolbox\control\ctrlmodels
+	C:\Program Files\MATLAB\R2018a\toolbox\control\ctrlanalysis
+	C:\Program Files\MATLAB\R2018a\toolbox\control\ctrldesign
+	C:\Program Files\MATLAB\R2018a\toolbox\control\ctrlplots
+	C:\Program Files\MATLAB\R2018a\toolbox\control\ctrlguis
+	C:\Program Files\MATLAB\R2018a\toolbox\control\ctrlobsolete
+	C:\Program Files\MATLAB\R2018a\toolbox\control\ctrlutil
+	C:\Program Files\MATLAB\R2018a\toolbox\control\ctrldemos
+	C:\Program Files\MATLAB\R2018a\help\toolbox\control\examples
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\cosimservice\ddg
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\reports
+	C:\Program Files\MATLAB\R2018a\toolbox\curvefit\curvefit
+	C:\Program Files\MATLAB\R2018a\toolbox\curvefit\splines
+	C:\Program Files\MATLAB\R2018a\toolbox\curvefit\sftoolgui
+	C:\Program Files\MATLAB\R2018a\toolbox\curvefit\curvefitdemos
+	C:\Program Files\MATLAB\R2018a\toolbox\daq\daq
+	C:\Program Files\MATLAB\R2018a\toolbox\daq\app\daqaiapplet
+	C:\Program Files\MATLAB\R2018a\toolbox\daq\daqdemos
+	C:\Program Files\MATLAB\R2018a\toolbox\daq\app\provider
+	C:\Program Files\MATLAB\R2018a\toolbox\daq\daqsdk\bin\win64
+	C:\Program Files\MATLAB\R2018a\toolbox\daq\daqsdk
+	C:\Program Files\MATLAB\R2018a\toolbox\daq\daqsdk\tests
+	C:\Program Files\MATLAB\R2018a\toolbox\daq\daqblks
+	C:\Program Files\MATLAB\R2018a\toolbox\daq\daqblks\daqsfcn
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\datatools\datatoolsservices\matlab
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\datatools\inspector\matlab
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\datatools\peermodel_mcos\matlab
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\datatools\plotstab\matlab
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\datatools\variableeditor\matlab
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\datatools\workspacebrowser\matlab
+	C:\Program Files\MATLAB\R2018a\toolbox\dig\dig
+	C:\Program Files\MATLAB\R2018a\toolbox\distcomp
+	C:\Program Files\MATLAB\R2018a\toolbox\distcomp\distcomp
+	C:\Program Files\MATLAB\R2018a\toolbox\distcomp\user
+	C:\Program Files\MATLAB\R2018a\toolbox\distcomp\mpi
+	C:\Program Files\MATLAB\R2018a\toolbox\distcomp\parallel
+	C:\Program Files\MATLAB\R2018a\toolbox\distcomp\parallel\util
+	C:\Program Files\MATLAB\R2018a\toolbox\distcomp\lang
+	C:\Program Files\MATLAB\R2018a\toolbox\distcomp\cluster
+	C:\Program Files\MATLAB\R2018a\toolbox\distcomp\gpu
+	C:\Program Files\MATLAB\R2018a\toolbox\distcomp\array
+	C:\Program Files\MATLAB\R2018a\toolbox\distcomp\pctdemos
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dastudio\dpvu\dpvu
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dastudio\dpvu\dpvu\metamodel
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dastudio\dpvu\dpvu\actions
+	C:\Program Files\MATLAB\R2018a\toolbox\dsp\dsp
+	C:\Program Files\MATLAB\R2018a\toolbox\dsp\dsputilities
+	C:\Program Files\MATLAB\R2018a\toolbox\dsp\dsputilities\dspinit
+	C:\Program Files\MATLAB\R2018a\toolbox\dsp\dsputilities\dspmex
+	C:\Program Files\MATLAB\R2018a\toolbox\dsp\dsp\compiled
+	C:\Program Files\MATLAB\R2018a\toolbox\dsp\dsphdl
+	C:\Program Files\MATLAB\R2018a\toolbox\dsp\dsphdl\compiled
+	C:\Program Files\MATLAB\R2018a\toolbox\dsp\dsphdl\dsputilities
+	C:\Program Files\MATLAB\R2018a\toolbox\dsp\dspdemos
+	C:\Program Files\MATLAB\R2018a\help\toolbox\dsp\examples
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\spc\src_ml
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dsp\simulink\dsp
+	C:\Program Files\MATLAB\R2018a\toolbox\dsp\templates
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dsp\visionhdl\simulink\dsp
+	C:\Program Files\MATLAB\R2018a\toolbox\eml\eml
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\external\engines\engine_api
+	C:\Program Files\MATLAB\R2018a\examples\audio
+	C:\Program Files\MATLAB\R2018a\examples\bioinfo
+	C:\Program Files\MATLAB\R2018a\examples\coder_compiler_dsp
+	C:\Program Files\MATLAB\R2018a\examples\coder_fixedpoint_simulink
+	C:\Program Files\MATLAB\R2018a\examples\comm
+	C:\Program Files\MATLAB\R2018a\examples\control
+	C:\Program Files\MATLAB\R2018a\examples\controls_id
+	C:\Program Files\MATLAB\R2018a\examples\control_featured
+	C:\Program Files\MATLAB\R2018a\examples\curvefit
+	C:\Program Files\MATLAB\R2018a\examples\daq
+	C:\Program Files\MATLAB\R2018a\examples\distcomp
+	C:\Program Files\MATLAB\R2018a\examples\dsp
+	C:\Program Files\MATLAB\R2018a\examples\fuelsys_shared
+	C:\Program Files\MATLAB\R2018a\examples\graphics
+	C:\Program Files\MATLAB\R2018a\examples\graphics2
+	C:\Program Files\MATLAB\R2018a\examples\hdlcoder
+	C:\Program Files\MATLAB\R2018a\examples\hdlfilter
+	C:\Program Files\MATLAB\R2018a\examples\ident
+	C:\Program Files\MATLAB\R2018a\examples\ident_featured
+	C:\Program Files\MATLAB\R2018a\examples\images
+	C:\Program Files\MATLAB\R2018a\examples\instrument
+	C:\Program Files\MATLAB\R2018a\examples\matlab
+	C:\Program Files\MATLAB\R2018a\examples\matlab_featured
+	C:\Program Files\MATLAB\R2018a\examples\optim
+	C:\Program Files\MATLAB\R2018a\examples\phased
+	C:\Program Files\MATLAB\R2018a\examples\predmaint_shared
+	C:\Program Files\MATLAB\R2018a\examples\signal
+	C:\Program Files\MATLAB\R2018a\examples\simscape
+	C:\Program Files\MATLAB\R2018a\examples\simulink
+	C:\Program Files\MATLAB\R2018a\examples\simulink_general
+	C:\Program Files\MATLAB\R2018a\examples\simulink_general\main
+	C:\Program Files\MATLAB\R2018a\examples\slcontrol
+	C:\Program Files\MATLAB\R2018a\examples\sldo
+	C:\Program Files\MATLAB\R2018a\examples\stateflow
+	C:\Program Files\MATLAB\R2018a\examples\stats
+	C:\Program Files\MATLAB\R2018a\examples\stats_featured
+	C:\Program Files\MATLAB\R2018a\examples\symbolic
+	C:\Program Files\MATLAB\R2018a\examples\wavelet
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\filebrowser
+	C:\Program Files\MATLAB\R2018a\toolbox\dsp\filterdesign
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\findfiles
+	C:\Program Files\MATLAB\R2018a\toolbox\fixedpoint\fixedpointtool
+	C:\Program Files\MATLAB\R2018a\toolbox\fixedpoint\fidemos
+	C:\Program Files\MATLAB\R2018a\toolbox\fixedpoint\fixedpoint
+	C:\Program Files\MATLAB\R2018a\toolbox\fixpoint
+	C:\Program Files\MATLAB\R2018a\toolbox\fixpoint\fpca
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\fmu_block
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\uitools\uicomponents\components
+	C:\Program Files\MATLAB\R2018a\toolbox\hdlcoder\hdlcommon
+	C:\Program Files\MATLAB\R2018a\toolbox\hdlcoder\hdlcommon\modelcheckeradvisor
+	C:\Program Files\MATLAB\R2018a\toolbox\hdlcoder\hdllib\ml_lib
+	C:\Program Files\MATLAB\R2018a\toolbox\hdlcoder\hdllib\sl_lib
+	C:\Program Files\MATLAB\R2018a\toolbox\hdlcoder\hdlslrt
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hadoopserializer
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\appdes\services
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hwmanager\hwconnection
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hwmanager\hwmanagerapp
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hwmanager\hwmanagerapp\devices
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hwmanager\hwmanagerapp\providers
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hwmanager\hwmanagerapp\plugins
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hwmanager\hwmanagerapp\framework
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hwmanager\hwmanagerapp\framework\modules
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hwmanager\hwmanagerapp\hwsetup
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hwmanager\hwsetup
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hwmanager\hwsetup\hwwidgets
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hwmanager\hwsetup\hwtemplates
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hwmanager\hwsetup\launch
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hwmanager\logger
+	C:\Program Files\MATLAB\R2018a\toolbox\idelink\foundation
+	C:\Program Files\MATLAB\R2018a\toolbox\idelink\foundation\autointerface
+	C:\Program Files\MATLAB\R2018a\toolbox\idelink\foundation\autointerface\ideregisterplugins
+	C:\Program Files\MATLAB\R2018a\toolbox\idelink\foundation\util
+	C:\Program Files\MATLAB\R2018a\toolbox\idelink\foundation\errorhandler
+	C:\Program Files\MATLAB\R2018a\toolbox\idelink\foundation\xmakefile
+	C:\Program Files\MATLAB\R2018a\toolbox\idelink\foundation\hookpoints
+	C:\Program Files\MATLAB\R2018a\toolbox\images\colorspaces
+	C:\Program Files\MATLAB\R2018a\toolbox\images\images
+	C:\Program Files\MATLAB\R2018a\toolbox\images\imdata
+	C:\Program Files\MATLAB\R2018a\toolbox\images\imuitools
+	C:\Program Files\MATLAB\R2018a\toolbox\images\iptformats
+	C:\Program Files\MATLAB\R2018a\toolbox\images\iptutils
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\imagesci
+	C:\Program Files\MATLAB\R2018a\toolbox\images\imdemos
+	C:\Program Files\MATLAB\R2018a\toolbox\instrument\instrument
+	C:\Program Files\MATLAB\R2018a\toolbox\instrument\instrumentblks\instrumentblks
+	C:\Program Files\MATLAB\R2018a\toolbox\instrument\instrumentblks\instrumentmex
+	C:\Program Files\MATLAB\R2018a\toolbox\instrument\instrumentblks\instrumentmasks
+	C:\Program Files\MATLAB\R2018a\toolbox\instrument\instrumentdemos
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\instrument
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\spcuilib\logicanalyzer
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\m3i
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\mask\iconeditor
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\mldatx
+	C:\Program Files\MATLAB\R2018a\toolbox\multisim
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\networklib
+	C:\Program Files\MATLAB\R2018a\toolbox\optim\optim
+	C:\Program Files\MATLAB\R2018a\toolbox\optim
+	C:\Program Files\MATLAB\R2018a\toolbox\optim\optimdemos
+	C:\Program Files\MATLAB\R2018a\toolbox\optim\problemdef
+	C:\Program Files\MATLAB\R2018a\toolbox\distcomp\bigdata
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\pathtool
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\common\dataservices\gui\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\common\dataservices\mli\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\common\dataservices\sli\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\common\data\mli\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\common\external\library\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\common\external\mli\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\common\foundation\mli\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\common\gl\mli\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\common\gl\sli\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\common\gui\mli\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\common\units\mli\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\gui\gfx\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\mech\mech
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\mech\importer
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\mech\mechdemos
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\mech\mechdemos\doc
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\network_engine\network_engine
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\ne_sli\ne_sli
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\pm_sli\pm_sli
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\pm_visimpl\pm_visimpl
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\simscape\advisor\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\simscape\compiler\mli\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\simscape\compiler\patterns\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\simscape\compiler\sli\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\simscape\simscapedemos
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\simscape\simscapedemos\doc
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\simscape\engine\library\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\simscape\engine\mli\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\simscape\engine\sli\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\simscape\foundation\simscape
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\simscape\library\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\simscape\reg\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\simscape\simscape\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\simscape\solver\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\simscape\templates
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\simscape\utils\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\core\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\images
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\wing_landing_gear
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\wing_landing_gear\images
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\cart_double_pendulum
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\cart_double_pendulum\images
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\stewart_platform
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\stewart_platform\images
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\double_crank_aiming
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\double_crank_aiming\images
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\bread_slicer
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\bread_slicer\images
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\import\stewart_platform
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\import\four_bar
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\radial_engine
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\radial_engine\images
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\double_wishbone_suspension
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\double_wishbone_suspension\images
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\import\robot
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\cardan_gear
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\cardan_gear\images
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\windshield_wiper
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\windshield_wiper\images
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\backhoe
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\robotic_wrist
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\carousel
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\welding_robot
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\import\robot_stepfiles
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\potters_wheel
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\linear_actuator
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\pto_shaft
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\cam_flapping_wing
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\vehicle_slalom
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\dump_trailer
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\interface_elements
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\solar_tracker
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\import\humanoid_urdf
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\suspension_templates
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\worm_jack
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\doc
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\doc\bevel_gear
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\doc\common_gear_external
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\doc\common_gear_internal
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\doc\rack_and_pinion
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\doc\worm_and_gear
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\doc\poc_cam
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\doc\poc_flap
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\doc\inertias
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\smdemos\doc\pulleys
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\foundation\mech
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\gui\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\import\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\local\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\sli\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\sm\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\ssci\m
+	C:\Program Files\MATLAB\R2018a\toolbox\physmod\sm\templates
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\codeinstrum\codeinstrum
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\cxxfe_mi\cxxfe_mi
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\polyspace
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\external\interfaces\python
+	C:\Program Files\MATLAB\R2018a\toolbox\realtime
+	C:\Program Files\MATLAB\R2018a\toolbox\realtime\realtime
+	C:\Program Files\MATLAB\R2018a\toolbox\realtime\realtime\rtw
+	C:\Program Files\MATLAB\R2018a\toolbox\rptgenext\slxmlcomp
+	C:\Program Files\MATLAB\R2018a\toolbox\rptgenext\rptgenextdemos\slxmlcomp
+	C:\Program Files\MATLAB\R2018a\toolbox\rptgen\xmlcomp
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\serial
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\blocks\sb2sl
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\advisor
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\asynciolib
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\bigdata
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\cgir_fe
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\cgxe\cgxe
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\cmlink\api
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\coder\coder
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\configset
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\controllib\engine
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\controllib\engine\numerics
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\controllib\engine\options
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\controllib\engine\optim
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\controllib\engine\blocks
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\controllib\estimation
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\controllib\general
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\controllib\graphics
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\controllib\graphics\utils
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\controllib\graphics\plotoptions
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\controllib\requirements
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\curvefitlib
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dastudio
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dataflow
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dataflow\dataflowmex\dataflow_mex
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dataflow\dataflowsimulink\dfs
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dataflow\dataflowvisualization
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\deviceplugindetection
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dspblks\dspblks
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dspblks\dspmex
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dsp\dialog
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dsp\float2fixed
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dsp\hdl
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dsp\scopes
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dsp\vision\matlab\utilities
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dsp\vision\simulink\utilities
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dsp\vision\matlab\utilities\mex
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dsp\vision\simulink\utilities\mex
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dsp\vision\matlab\utilities\init
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dsp\vision\matlab\vision
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dsp\vision\simulink\vision
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\filterdesignlib
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\filterdesignlib\filterbuilder
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hdlshared
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hdlshared\hdlshared_gui
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hdlshared\hdlshared_soc
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hotpluglib
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hwconnectinstaller
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\hwconnectinstaller\common
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\imageslib
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\imageio
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\io
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\maputils
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\measure
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\mlreportgen\dom
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\mlreportgen\dom\dom
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\mlreportgen\dom\dom\help
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\mlreportgen\ppt
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\mlreportgen\ppt\ppt
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\mlreportgen\ppt\ppt\help
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\mlreportgen\rpt
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\mlreportgen\rpt\rpt
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\mlreportgen\utils
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\multibody\multibodylib
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\multimedia
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\networklib
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\optimlib
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\reqmgt
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\reqmgt\mmutils
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\rptgen
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\sdi
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\sigbldr
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\siglib
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\signalwavelet\signalwavelet
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\simulink\sysarch\sysarch
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\slcc\slcc
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\slcc_cov\slcc_cov
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\slci\slci
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\slcontrollib
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\sl_coverage_configset
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\sldv
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\sldv_cc\sldv_cc
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\slreportgen\reportexplorer
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\slreportgen\rpt
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\slreportgen\rpt\rpt
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\slreportgen\utils
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\spcuilib\slscopes
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\slvnv
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\sl_async_streaming
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\sl_web_widgets
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\spreadsheet
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\statslib
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\statslib\sensitivity
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\supportpkgservices\legacysupportpkginfo
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\supportpkgservices\installservices
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\supportpkgservices\supportpackageroot
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\supportpkgservices\installedapi
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\supportsoftware\launcher
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\supportsoftware\services
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\supportsoftware\upgrade
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\system\coder
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\system\coreblocks
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\system\sfun
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\system\simulink
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\testmeaslib\general
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\testmeaslib\graphics
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\testmeaslib\simulink
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\tracking\trackinglib
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\tracking\trackinglib\blocks
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\transportlib
+	C:\Program Files\MATLAB\R2018a\toolbox\signal\signal
+	C:\Program Files\MATLAB\R2018a\toolbox\signal\sigtools
+	C:\Program Files\MATLAB\R2018a\toolbox\signal\sptoolgui
+	C:\Program Files\MATLAB\R2018a\toolbox\signal\sigdemos
+	C:\Program Files\MATLAB\R2018a\toolbox\signal\signalanalyzer
+	C:\Program Files\MATLAB\R2018a\toolbox\signal\signalanalyzereng
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\simulink
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\simulation_data_repository
+	C:\Program Files\MATLAB\R2018a\toolbox\sl3d\sl3d
+	C:\Program Files\MATLAB\R2018a\toolbox\sl3d\sl3ddemos
+	C:\Program Files\MATLAB\R2018a\toolbox\coder\foundation\passmanager
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\simulink\slcheck_services
+	C:\Program Files\MATLAB\R2018a\toolbox\slcontrol\slcontrol
+	C:\Program Files\MATLAB\R2018a\toolbox\slcontrol\slctrlguis
+	C:\Program Files\MATLAB\R2018a\toolbox\slcontrol\slctrlutil
+	C:\Program Files\MATLAB\R2018a\toolbox\slcontrol\slctrlobsolete
+	C:\Program Files\MATLAB\R2018a\toolbox\slcontrol\slctrldemos
+	C:\Program Files\MATLAB\R2018a\help\toolbox\slcontrol\examples
+	C:\Program Files\MATLAB\R2018a\toolbox\slcoverage
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink_data_dictionary\sldd
+	C:\Program Files\MATLAB\R2018a\toolbox\sldv\sldv
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\slexportprevious
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\slhistory
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\slproject\simulink
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\slproject
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\slproject\menu
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\slproject\examples
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\slproject\templates
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sltemplate
+	C:\Program Files\MATLAB\R2018a\toolbox\sltp\m
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sl_async_streaming
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\fixedandfloat
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\fixedandfloat\obsolete
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sl_graphics_services\tools
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\iodata\iomap
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\sourceBlocks
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\iodata\ioformat
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\sl_messages
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\performance
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\performance\performancea
+	C:\Program Files\MATLAB\R2018a\toolbox\sl_pir_cap
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\slpir
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\dastudio\seqdiagram
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\diagnostic
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\scenarioconnector
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\scenarioconnector\ui
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\scenarioconnector\ui\toolstrip\modelsection
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\scenarioconnector\ui\toolstrip\filesection
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\editor
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\editor\ui
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\ui
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\ui\comparisontool
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\ui\mapping
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\ui\mapping\callbacks
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\ui\mapping\util
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\ui\toolstrip
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\ui\toolstrip\open\streaming
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\ui\toolstrip\help
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\ui\toolstrip\open
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\ui\toolstrip\session
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\ui\toolstrip\report
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\derivedSignals
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\sl_sta_editor_block
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\repository
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\sta\repository\util
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\ui\sl_studio\sl_studio
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\sl_units_mldatx
+	C:\Program Files\MATLAB\R2018a\toolbox\simulink\simulink\upgradeadvisor
+	C:\Program Files\MATLAB\R2018a\toolbox\stats\bayesoptim
+	C:\Program Files\MATLAB\R2018a\toolbox\stats\bigdata
+	C:\Program Files\MATLAB\R2018a\toolbox\stats\classreg
+	C:\Program Files\MATLAB\R2018a\toolbox\stats\clustering
+	C:\Program Files\MATLAB\R2018a\toolbox\stats\featlearn
+	C:\Program Files\MATLAB\R2018a\toolbox\stats\stats
+	C:\Program Files\MATLAB\R2018a\toolbox\stats\statsdemos
+	C:\Program Files\MATLAB\R2018a\toolbox\stats\distributed
+	C:\Program Files\MATLAB\R2018a\toolbox\stats\gpu
+	C:\Program Files\MATLAB\R2018a\toolbox\stats\mlearnapp
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\storage\matlabdrive
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\storage\mldrivedesktop
+	C:\Program Files\MATLAB\R2018a\toolbox\symbolic\symbolic
+	C:\Program Files\MATLAB\R2018a\toolbox\symbolic\symbolicdemos
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\system
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\system\editor
+	C:\Program Files\MATLAB\R2018a\toolbox\target\codertarget
+	C:\Program Files\MATLAB\R2018a\toolbox\target\codertarget\rtw
+	C:\Program Files\MATLAB\R2018a\toolbox\target\codertarget\matlabcoder
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\timeseries
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\toolboxmanagement\matlab_api
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\toolbox_packaging
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\toolstrip
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\uicomponents\uicomponents\plugin\appdesigner
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\uicomponents\uicomponents
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\uicomponents\uicomponents\graphics
+	C:\Program Files\MATLAB\R2018a\toolbox\shared\spcuilib\unifiedscopes
+	C:\Program Files\MATLAB\R2018a\toolbox\wavelet\wavelet
+	C:\Program Files\MATLAB\R2018a\toolbox\wavelet\wmultisig1d
+	C:\Program Files\MATLAB\R2018a\toolbox\wavelet\compression
+	C:\Program Files\MATLAB\R2018a\toolbox\wavelet\wavedemo
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\webcam
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\external\interfaces\webservices\http
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\external\interfaces\json
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\external\interfaces\webservices\restful
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\external\interfaces\webservices
+	C:\Program Files\MATLAB\R2018a\toolbox\matlab\external\interfaces\webservices\wsdl
+addpath(genpath(cd))
+clear
+delete diary.txt; diary diary.txt; large_envo_analysis_v3
+[Warning: File 'diary.txt' not found.] 
